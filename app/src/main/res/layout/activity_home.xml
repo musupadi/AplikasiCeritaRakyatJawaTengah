@@ -41,6 +41,7 @@
                 android:padding="100dp"
                 android:layout_margin="20dp">
                 <TextView
+                    android:id="@+id/tvCeritaRakyat"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
@@ -56,6 +57,7 @@
                 android:padding="100dp"
                 android:layout_margin="20dp">
                 <TextView
+                    android:id="@+id/tvKumpulan"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
@@ -71,6 +73,7 @@
                 android:padding="100dp"
                 android:layout_margin="20dp">
                 <TextView
+                    android:id="@+id/tvTentang"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
@@ -86,6 +89,7 @@
                 android:padding="100dp"
                 android:layout_margin="20dp">
                 <TextView
+                    android:id="@+id/tvKeluar"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
