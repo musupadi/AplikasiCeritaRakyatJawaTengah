@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activity.KumpulanCeritaActivity"></activity>
+        <activity android:name=".Activity.MottoActivity"></activity>
+        <activity android:name=".Activity.DetailCeritaActivity" />
+        <activity android:name=".Activity.TentangActivity" />
+        <activity android:name=".Activity.CeritaRakyatActivity" />
+        <activity android:name=".Activity.KumpulanCeritaActivity" />
         <activity android:name=".Activity.HomeActivity" />
         <activity android:name=".Activity.MainActivity">
             <intent-filter>

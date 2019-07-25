@@ -6,23 +6,24 @@
     android:layout_height="match_parent"
     tools:context=".Activity.HomeActivity"
     android:orientation="vertical"
-    android:background="@color/colorAccent">
+    android:background="@drawable/backgroundbook">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:background="@color/colorPrimary">
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="3"
-            android:src="@color/colorPrimary"/>
+            android:layout_weight="5"
+            android:src="@drawable/gk"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="Home"
             android:gravity="center|left"
-            android:textSize="30sp"/>
+            android:textSize="20sp"/>
     </LinearLayout>
     <RelativeLayout
         android:layout_width="match_parent"
@@ -33,71 +34,42 @@
             android:layout_height="match_parent"
             android:orientation="vertical"
             android:padding="50dp">
-            <android.support.v7.widget.CardView
+            <Button
+                android:text="Apa itu Cerita Rakyat ?"
+                android:layout_margin="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_gravity="center"
-                android:padding="100dp"
-                android:layout_margin="20dp">
-                <TextView
-                    android:id="@+id/tvCeritaRakyat"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"
-                    android:text="Apa Itu Cerita Rakyat ?"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+                android:id="@+id/btnCerita"
+                android:background="@drawable/button_rounded_primary"/>
+            <Button
+                android:text="Kumpulan Cerita"
+                android:layout_margin="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_gravity="center"
-                android:padding="100dp"
-                android:layout_margin="20dp">
-                <TextView
-                    android:id="@+id/tvKumpulan"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"
-                    android:text="Kumpulan Cerita"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+                android:id="@+id/btnKumpulan"
+                android:background="@drawable/button_rounded_primary"/>
+            <Button
+                android:text="Tentang"
+                android:layout_margin="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_gravity="center"
-                android:padding="100dp"
-                android:layout_margin="20dp">
-                <TextView
-                    android:id="@+id/tvTentang"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"
-                    android:text="Tentang"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+                android:id="@+id/btnTentang"
+                android:background="@drawable/button_rounded_primary"/>
+            <Button
+                android:text="Keluar"
+                android:layout_margin="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_gravity="center"
-                android:padding="100dp"
-                android:layout_margin="20dp">
-                <TextView
-                    android:id="@+id/tvKeluar"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center"
-                    android:textSize="20sp"
-                    android:textStyle="bold"
-                    android:text="Keluar"/>
-            </android.support.v7.widget.CardView>
-
+                android:id="@+id/btnKeluar"
+                android:background="@drawable/button_rounded_primary"/>
         </LinearLayout>
     </RelativeLayout>
 

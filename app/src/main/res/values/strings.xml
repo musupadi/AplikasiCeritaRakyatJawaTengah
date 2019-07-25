@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Aplikasi Cerita Rakyat Jawa Tengah</string>
+    <string name="cerita_rakyat">Cerita Rakyat Merupakan Cerita Yang Berasal Dari Masyarakat Dan Berkembang Dalam Masyarakat Pada Masa Lampau Yang Menjadi Ciri Khas Disetiap Bangsa Yang Mempunyai Kultur Budaya Yang Beraneka Ragam Yang Mencakup Kekayaan Budaya Dan Sejarah Yang Dimiliki Masing-Masing Bangsa. Pada Umumnya Cerita Rakyat Ini Mengisahkan Mengenai Suatu Kejadian Di Suatu Tempat Atau Asal Muasal Suatu Tempat. Tokoh-Tokoh Yang Dimunculkan Dalam Cerita Rakyat Umumnya Diwujudkan Dalam Bentuk Binatang, Manusia Dan Dewa.</string>
+    <string name="deskripsi">Tentang Puspa</string>
 </resources>
