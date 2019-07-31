@@ -1,6 +1,8 @@
 package com.example.aplikasiceritarakyatjawatengah.Activity;
 
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
+import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -14,6 +16,7 @@ public class DetailCeritaActivity extends AppCompatActivity {
     TextView Judul,Detail;
     ImageView Gambar,Play;
     Button Motto;
+    boolean onClicked = true;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,7 +34,7 @@ public class DetailCeritaActivity extends AppCompatActivity {
         final String cerita = data.getStringExtra("CERITA");
         final String pesanmoral = data.getStringExtra("PESANMORAL");
         final String suara = data.getStringExtra("SUARA");
-
+        final MediaPlayer SuaraLagu = MediaPlayer.create(DetailCeritaActivity.this,Integer.parseInt(suara));
         Judul.setText(judul);
         Gambar.setImageResource(Integer.parseInt(gambar));
         Detail.setText(cerita);
@@ -45,6 +48,22 @@ public class DetailCeritaActivity extends AppCompatActivity {
                 goInput.putExtra("PESANMORAL",pesanmoral);
                 goInput.putExtra("SUARA",suara);
                 DetailCeritaActivity.this.startActivities(new Intent[]{goInput});
+            }
+        });
+        Play.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Drawable DrawableHapus = getResources().getDrawable(R.drawable.pause);
+                Drawable DrawablePlay = getResources().getDrawable(R.drawable.play);
+                if (onClicked){
+                    Play.setImageDrawable(DrawableHapus);
+                    SuaraLagu.start();
+                    onClicked = false;
+                }else{
+                    Play.setImageDrawable(DrawablePlay);
+                    SuaraLagu.pause();
+                    onClicked = true;
+                }
             }
         });
     }

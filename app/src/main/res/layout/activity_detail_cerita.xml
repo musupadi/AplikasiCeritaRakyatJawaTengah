@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".Activity.DetailCeritaActivity"
     android:orientation="vertical"
-    android:background="@drawable/backgroundbook">
+    android:background="@drawable/backgroundpuspa">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:orientation="horizontal"
-        >
+        android:background="@color/colorPrimary">
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -53,10 +53,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
                 <TextView
+                    android:textColor="@color/colorPrimary"
                     android:id="@+id/tvDetailCerita"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:text="Detail Cerita"/>
+                    android:text="Detail Cerita"
+                    android:textStyle="bold"/>
             </LinearLayout>
         </ScrollView>
         <Button

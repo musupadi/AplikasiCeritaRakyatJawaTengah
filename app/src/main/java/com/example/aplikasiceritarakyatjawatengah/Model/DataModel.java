@@ -8,41 +8,51 @@ public class DataModel {
     public static String[][] data = new String[][]{
             {String.valueOf(R.drawable.baturaden),
                     "Batu Raden",
-                    "Baturaden merupakan kisah cinta antara Suta, seorang perawat kuda milik Adipati Kutaliman dengan putri Adipati Kutaliman yang berdarah bangsawan.\n" +
+                    "Baturaden merupakan kisah cinta Suta seorang perawat kuda milik Adipati Kutaliman dengan putri Adipati Kutaliman yang berdarah bangsawan.\n" +
                             "\n" +
-                            "Kisah cinta ini terjadi dahulu kala di Kadipaten Kutaliman, Banyumas, Jawa Tengah sekarang. Adipati Kutaliman memiliki seorang pembantu bernama Suta. Tugas Suta adalah merawat kuda-kuda milik Adipati Kutaliman dan membersihkan istal (kandang kuda). Disamping dikenal sebagai sosok perkerja keras dan jujur, Suta juga dikenal memiliki paras yang tampan rupawan. Selama bekerja di Kadipaten Kutaliman, Suta tidak pernah membuat masalah. Selepas mengurus kuda-kuda Kadipaten, Suta biasa mengisi waktunya dengan berjalan mengelilingi area Kadipaten. Karena Kadipaten memiliki area yang cukup luas, setiap harinya Suta akan berjalan melewati lokasi yang berbeda.\n" +
+                            "Kisah cinta ini terjadi dahulu kala di Kadipaten Kutaliman, Banyumas, Jawa Tengah, sekarang Adipati Kutaliman memiliki seorang pembantu bernama Suta. Tugas Suta adalah merawat kuda-kuda milik Adipati Kutaliman dan membersihkan kandang kuda. Disamping dikenal sebagai sosok perkerja keras dan jujur, Suta juga dikenal memiliki paras yang tampan rupawan. Selama bekerja di Kadipaten Kutaliman, Suta tidak pernah membuat masalah. Selepas mengurus kuda-kuda Kadipaten, Suta biasa mengisi waktunya dengan berjalan mengelilingi area Kadipaten. Karena Kadipaten memiliki area yang cukup luas, setiap harinya Suta akan berjalan melewati lokasi yang berbeda.\n" +
                             "\n" +
-                            "Suta Menyelamatkan Putri Adipati\n" +
-                            "Di suatu hari, Suta berjalan mengelilingi area Kadipaten setelah seharian berkerja mengurus kuda-kuda Adipati. Saat melewati sebuah pohon mangga, Suta mendengar suara jeritan perempuan minta tolong. Ketika menengok ke pohon mangga, terkejutlah Suta melihat seekor ular sangat besar di balik pohon mahoni tengah berusaha memangsa seorang perempuan. Sosok perempuan tersebut nampak sudah pucat pasi dililit ular besar tersebut.\n" +
+                            ". Saat melewati sebuah pohon mangga, Suta mendengar suara jeritan perempuan minta tolong. Ketika menengok ke pohon mangga, terkejutlah Suta melihat seekor ular sangat besar di balik pohon mahoni tengah berusaha memangsa seorang perempuan. Sosok perempuan tersebut nampak sudah pucat pasi dililit ular besar tersebut.\n" +
                             "\n" +
                             "Tanpa pikir panjang, Suta segera mengeluarkan pedangnya dan langsung menyerang ular besar tersebut. Sebenarnya Suta bukanlah ahli pedang yang hebat, namun Suta nampak bersungguh-sungguh ingin menolong perempuan yang sudah tidak berdaya. Akhirnya setelah bersusah payah, Suta berhasil membunuh ular besar tersebut.\n" +
                             "\n" +
                             "Perempuan yang hampir dimangsa oleh ular itu jatuh tak sadarkan diri. Segera seorang inang pengasuh membawa perempuan tersebut ke sisi pendopo. Saat Suta melihat wajah perempuan tersebut, terkejutlah ia karena perempuan yang baru saja ditolongnya itu ternyata putri Adipati Kutaliman. Meskipun telah lama tinggal di Kadipaten Kutaliman, namun baru kali ini ia melihat langsung wajah putri Adipati yang sudah terkenal kecantikannya.Setelah sadarkan diri, inang pengasuh memberi tahu putri Adipati Kutaliman, bahwa ia telah ditolong oleh Suta, si pengurus kuda. Putri Adipati segera mengucapkan terima kasih kepada Suta. Saat keduanya bertatapan itulah tumbuh rasa cinta di hati mereka. Sejak saat itu keduanya menjadi akrab dan sering bertemu. Adipati Kutaliman mengetahui perihal pertemanan putrinya dengan Suta si pengurus kuda, namun Adipati tidak mempermasalahkannya.\n" +
                             "\n" +
-                            "Suta Dihukum Adipati\n" +
                             "Setelah sekian lama berteman dengan putri Adipati, Suta sudah tidak sanggup lagi menahan rasa cintanya kepada sang putri. Ia lantas memberanikan diri untuk meminang putri Adipati kepada ayahnya, kendati ia sadar bahwa dirinya hanyalah seorang pembantu.\n" +
                             "\n" +
                             "Terang saja keberanian Suta melamar putri Adipati membuat berang Adipati Kutaliman. Ia tidak mempermasalahkan pertemanan putrinya dengan Suta, tetapi jika harus menikah tentu saja Adipati tidak terima mengingat status sosial yang berbeda. Karena merasa Suta telah lancang berani meminang putrinya, Adipati Kutaliman memerintahkan pengawal untuk memenjarakan Suta di penjara bawah tanah tanpa diberi makanan.Suta sangat mencintai putri Adipati dan begitu pula sebaliknya. Status sosial keduanyalah yang memisahkan mereka. Hukuman ayahandanya kepada Suta membuat putri bersedih. Putri Adipati akhirnya memutuskan untuk mengeluarkan Suta dari penjara. Tidak hanya itu, putri Adipati memutuskan untuk lari dari Kadipaten dan hidup bersama dengan pria yang ia cintai.\n",
                     "pesan moral bahwa cinta yang suci tidak mengenal harta, pangkat dan derajat, Dewi Nagini yang memiliki pesan moral bahwa sifat yang suka memaksakan kehendak akan mengakibatkan bencana bagi dirinya dan keluarga, Gunung Merapi yang memiliki pesan moral bahwa orang yang tidak mau mendengarkan nasehat akan mendapat celaka, Gunung Wurung yang memberi pengetahuan mengapa gunung wurung berbentuk demikian (hanya separuh) karena pembangunanya yang tidak diselesaikan oleh para dewa",
-                    "suara"
-            },
+                    String.valueOf(R.raw.baturaden)
+    },
             {String.valueOf(R.drawable.dewintagagini),
                     "Dewi Nagagini",
-                    "DEWI NAGAGINI adalah putri Hyang Anantaboga dengan Dewi Supreti dari Kahyangan Saptapratala.\n" +
-                            "                             \n" +
-                            "                            Dewi Nagagini mempunyai adik kandung bernama Bambang Nagatatmala. Dewi Nagagini menikah dengan Bima/Werkundara, salah satu dari lima satria Pandawa, putra Prabu Pandu raja negara Astina, dengan permaisuri Dewi Kunti.Mereka bertemu, tatkala keluarga Pandawa dan Dewi Kunti dalam upaya menyelamatkan diri dari rencana pembunuhan oleh keluarga Kurawa dalam peristiwa rumah damar di hutan Wanayasa (peristiwa Bale Sigala-gala) sampai di Kahyangan Saptapratala.\n" +
-                            "                             \n" +
-                            "                            Dari perkawinan tersebut, lahir seorang putra yang diberi nama Arya Anantareja. \n" +
-                            "                            Dewi Nagagini mempunyai sifat dan perwatakan; setia, sangat berbakti, cinta terhadap sesama makhluk dan suka menolong.DEWI NAGAGINI.\n" +
-                            "                             \n" +
-                            "                            Dewi Nagagini adalah putri Hyang Antaboga, Dewa ular, yang bertahta di Saptapratala, lapis ke tujuh. Ia sebangsa bidadari. \n" +
-                            "                             \n" +
-                            "                            Pada waktu Pendawa di dalam lakon Balesegala-gala kena tipu Korawa dan terkungkung di dalam gedung terbakar, di mana diadakan jamuan makan, Pendawa tak mampu menghindarkan diri dari keadaan yang berbahaya itu, karena kemurahan para Dewa, Pandawa berhasil meloloskan diri kedalam bumi dengan mengikuti seekor garangan (sebangsa musang) putih, hingga bertemu dengan Hyang Antaboga. Kemudian Raden Bratasena, Pendawa yang kedua dikawinkan dengan Dewi Nagagini dan berputra Raden Antareja atau Antasena. Antareja dan ibunya tetap tinggai di Saptapratala, sebab mereka tergolong Dewa dan Dewi dan harus menetap di situ.\n" +
-                            "                             \n" +
-                            "                            Dewi Nagagini bermata jaitan, berhidung mancung, berbibir tersenyum, bermuka mendongak, sanggul gedhe, nama bentuk sanggul. Berjamang, bersunting waderan, dengan kain penutup punnggung dan bersepatu untuk menandak bahwa ia sebangsa bidadari.",
-
+                    "\tNagagini adalah puteri Sang Hyang Antaboga, seorang Dewa ular, yang bertahta di Saptapratala atau bumi lapis yang ke tujuh.\n" +
+                            "Dewi Nagagini berparas cantik jelita, namun karena keturunan Dewa Ular, pada saat-saat tertentu, terutama ketika dipenuhi amarah, Ia berubah menjadi sosok ular yang sangat menyeramkan.\n" +
+                            "Pada suatu waktu di Sapatapratala atau bumi lapis yang ketujuh Hyang Antaboga sedang duduk dihadap Dewi Nagagini.\n" +
+                            "\n" +
+                            "Dewi Nagagini melapor kepada ayahandanya bahwa tadi malam ia bermimpi bertemu dengan satria besar tinggi berwajah tampan dan berkulit kuning bernama Raden Bratasena. Ia minta dicarikan satria tersebut sampai dapat. Hyang antaboga menyanggupi dan Iapun segera berangkat.\n" +
+                            "Pada waktu itu Pandawa masih mengikuti binatang garangan putih yang menjadi penunjuk jalan Pandawa. Akan tetapi Binatang garangan itu berlari kencang dan tiba-tiba hilang.\n" +
+                            "Pandawa kebingungan dan berhenti berjalan untuk sementara sambil memikirkan jalan keluar.\n" +
+                            "Tiba-tiba tampak didepan mereka Dewa Hyang Antaboga.\n" +
+                            "Setelah mereka berkenalan mereka dipersilahkan turun ke Saptapratala.\n" +
+                            "Pandawa dijamu oleh Hyang Antaboga dan diperkenalkan kepada putri Hyang Antaboga yaitu Dewi Nagagini.\n" +
+                            "Mata Nagagini berbinar-binar melihat Bima. Pemuda di hadapannya yang pernah melintas di dalam mimpi tersebut benar-benar istimewa.\n" +
+                            "Di dalam darahnya telah mengalir Tirta Rasakundha, sebuah daya kekuatan yang hanya dimiliki oleh bangsa Naga.\n" +
+                            "Tirta Rasakundha ibarat benang merah yang menghubungkan naluri mereka, maka pantas saja ada getaran khusus di antara kedua hati yang saling menyenangkan, membahagiakan dan menentramkan.\n" +
+                            "Nagagini semakin percaya bahwasannya pertemuan ini telah diatur oleh Sang Hyang Widiwasa. Betapa indahnya hari itu. Saat mereka untuk pertamakali saling bertemu, saling mengenal dan terutama saling berbagi cinta, cinta antara pria dan wanita yang baru pertama kali ini bersemi, bahkan bersemi dengan cepat.\n" +
+                            "Hyang Antaboga berterus terang ingin menjodohkan anaknya Dewi Nagagini dengan Bima. Raden Bratasena/Bima menyatakan bersedia, maka dinikahkanlah Bratasena dengan Dewi Nagagini.\n" +
+                            "Kedua Pengantin ini hidup rukun. Kelak mereka akan dianugerahi seorang putera bernama Raden Antareja.\n" +
+                            "Pada saat Malam pengantin, pada saat Raden Bratasena dan Dewi Nagagini berada di kamar pengantin yang disebut “Pasamiran” cara Bratasena merayu istrinya lain daripada yang lain. Istrinya yang bertubuh kecil sangat cantik itu diontang-antingkan seperti barang akan dilempar.\n" +
+                            "Inang pengasuh Dewi Nagagini yang melihat kejadian ini segera melapor kepada Hyang Antaboga.\n" +
+                            "Hyang Antaboga terkejut, tidak mengira kalau Raden Bratasena berperangai kasar kepada istrinya dan segera merubah dirinya menjadi ular naga dan memasuki kamar “Pasamiran”, Namun disana dia mendapatkan anaknya Dewi Nagagini sedang dipangku dengan mesranya oleh Suaminya.\n" +
+                            "Dewi Nagagini yang tahu bahwa ular naga itu adalah ayahnya bertanya mengapa ayahnya memasuki pasamiran. Ular naga itu menjelaskan tentang laporan yang diterimanya dari inang pengasuh Dewi Nagagini.\n" +
+                            "Dewi Nagagini dengan tersipu-sipu menjelaskan bahwa ia merasa nikmat sekali diayun-ayun oleh suaminya dengan cara diontang-antingkan itu.\n" +
+                            "Dewa Hyang Antaboga yang sangat menyayangi anaknya itupun akhirnya mundur dan merubah rupa kembali menjadi manusia. Ia mengelus dada dan tersenyum memikirkan ulah anak-anak muda jaman sekarang.\n" +
+                            "Setelah beberapa waktu tinggal di Saptapratala, Dewi Kunti dan putra-putranya meminta diri. Hyang Antaboga mengijinkan.\n" +
+                            "Rombongan Pandawa dan Punakawan Semar Gareng Petruk dan Bagong itu segera kembali ke permukaan bumi melalui sumur Jalatunda.\n" +
+                            "\n",
                     "Sifat yang suka memaksakan kehendak akan mengakibatkan bencana bagi dirinya dan keluarganya",
-                    "Suara"
+                    String.valueOf(R.raw.nagagini)
             },
             {String.valueOf(R.drawable.gunungmerapi),
                     "Gunung Merapi",
@@ -58,12 +68,12 @@ public class DataModel {
                             "\n" +
                             "Saat utusan para dewa memberitahu agar kedua empu segera pindah, kedua empu tersebut menolaknya. Mereka beralasan bahwa pembuatan keris harus dikerjakan hingga selesai, jika tidak maka keselamatan umat manusia akan terancam. Dewa Panyarikan menjelaskan bahwa kondisi pulau Jawa telah miring jadi lokasi tersebut harus segera dikosongkan untuk ditanam Gunung Jamurdwipa sebagai penyeimbang. Namun Mpu Permadi dan Mpu Rama tetap menolak permintaan para dewa.Setelah sekian lama adu mulut, perkelahian pun tidak dapat dihindarkan. Dewa Panyarikan dan Batara Narada menyerang kedua empu dengan dibantu oleh para prajurit kahyangan. Mpu Permadi dan Mpu Rama pun melawan dengan mengerahkan segala kesaktian mereka. Pertempuran ini berlangsung lama dan berlarut-larut mengingat kesaktian Mpu Permadi dan Mpu Rama ternyata mampu mengimbangi kesaktian utusan para dewa.\n" +
                             "Sementara di kahyangan, Batara Guru merasa kesal dengan keadaan ini. Jika dibiarkan berlarut-larut maka pulau Jawa akan tenggelam ke laut selatan. Akhirnya Batara Guru memerintahkan Dewa Bayu untuk memindahkan Gunung Jamurdwipa ke tengah pulau Jawa tanpa memperdulikan keselamatan Mpu Permadi dan Mpu Rama.\n" +
-                            "\n" +
+                            "\nef" +
                             "Berangkatlah Dewa Bayu ke selatan. Dengan kesaktiannya, Dewa Bayu meniup Gunung Jamurdwipa hingga terbang melayang-layang diangkasa dan jatuh tepat di tengah pulau Jawa. Mpu Permadi dan Mpu Rama tewas seketika tertimpa Gunung Jamurdwipa. Karena telah berani menentang para dewata untuk pindah dari tempat tersebut, roh Mpu Permadi dan roh Mpu Rama tidak diterima di alam baka. Jadilah kedua empu tersebut menjadi penunggu Gunung. Inilah asal usul gunung Merapi. Meski telah tewas, kesaktian kedua empu tersebut masih ada. Keris yang tengah dikerjakan keduanya, masih mengeluarkan nyala api. Bara api tersebut tidak dapat dipadamkan kecuali oleh kedua empu tersebut. Lama-kelamaan bara api terus membesar dan membakar bebatuan dan tanah gunung Merapi hingga membuat sebuah lubang besar. Hingga kini lubang tersebut telah menjadi kawah gunung Merapi.\n" +
                             "\n" +
                             "    ",
                     "Bahwa orang yang tidak mau mendengarkan nesehat akan mendapatkan celaka.",
-                    "Suara",
+                    String.valueOf(R.raw.gunungmerapi),
             },
             {String.valueOf(R.drawable.gunungwurung),
                     "Gunung Wurung",
@@ -91,7 +101,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Memberikan pengetahuan mengapa gunung wurung berbentuk demikian (hanya separuh) karena pembangunannya yang tidak diselesaikan oleh para dewa",
-                    "Suara",
+                    String.valueOf(R.raw.gunungwurung),
             },
             {String.valueOf(R.drawable.jakatarub),
                     "Jaka Tarub",
@@ -245,7 +255,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Bahwa sepandai-pandainya kita menutupi kebohongan itu maka suatu saat kebohongan itu diketahui orang",
-                    "Suara",
+                    String.valueOf(R.raw.jakatarub),
             },
             {
                 String.valueOf(R.drawable.kawahsikidang),
@@ -289,133 +299,9 @@ public class DataModel {
                             "Sumur yang meledak itu lama-kelamaan menjadi sebuah kawah yang kemudian dinamakan Sikidang. Sampai sekarang di Dataran Tinggi Dieng banyak orang yang mempunyai rambut gimbal seperti kutukan Pangeran Kidang Garungan.\n" +
                             "\n" +
                             "\n" +
-                            "    </string>\n" +
-                            "\n" +
-                            "\n" +
-                            "    <string name=\"title_activity_timunmas\">timunmas</string>\n" +
-                            "    <string name=\"timunmas\">\n" +
-                            "\n" +
-                            "    Alkisah, di sebuah kampung di daerah Jawa Tengah, hiduplah seorang janda paruh baya yang bernama Mbok Srini. Sejak ditinggal mati oleh suaminya beberapa tahun silam, ia hidup sebatang kara, karena tidak mempunyai anak. Ia sangat mengharapkan kehadiran seorang anak untuk mengisi kesepiannya. Namun, harapan itu telah pupus, karena suaminya telah meninggal dunia. Ia hanya menunggu keajaiban untuk bisa mendapatkan seorang anak. Ia sangat berharap keajaiban itu akan terjadi padanya. Untuk meraih harapan itu, siang malam ia selalu berdoa kepada Tuhan Yang Mahakuasa agar diberi anak.\n" +
-                            "\n" +
-                            "Pada suatu malam, harapan itu datang melalui mimpinya. Dalam mimpinya, ia didatangi oleh sesosok makhluk raksasa yang menyuruhnya pergi ke hutan tempat biasanya ia mencari kayu bakar untuk mengambil sebuah bungkusan di bawah sebuah pohon besar. Saat terbangun di pagi hari, Mbok Srini hampir tidak percaya dengan mimpinya semalam.\n" +
-                            "\n" +
-                            "Namun, perempuan paruh baya itu berusaha menepis keraguan hatinya. Dengan penuh harapan, ia bergegas menuju ke tempat yang ditunjuk oleh raksasa itu. Setibanya di hutan, ia segera mencari bungkusan itu di bawah pohon besar. Betapa terkejutnya ia ketika menemukan bungkusan yang dikiranya berisi seorang bayi, tapi ternyata hanyalah sebutir biji timun. Hatinya pun kembali bertanya-tanya.\n" +
-                            "\n" +
-                            "“Apa maksud raksasa itu memberiku sebutir biji timun?” gumam janda itu dengan bingung.\n" +
-                            "\n" +
-                            "Di tengah kebingungannya, tanpa ia sadari tiba-tiba sesosok makhluk raksasa berdiri di belakangnya sambil tertawa terbahak-bahak.\n" +
-                            "\n" +
-                            "“Ha… ha… ha…!” demikian suara tawa raksasa itu.\n" +
-                            "\n" +
-                            "Mbok Srini pun tersentak kaget seraya membalikkan badannya. Betapa terkejutnya ia karena raksasa itulah yang hadir dalam mimpinya. Ia pun menjadi ketakutan.\n" +
-                            "\n" +
-                            "“Ampun, Tuan Raksasa! Jangan memakanku! Aku masih ingin hidup,” pinta Mbok Srini dengan muka pucat.\n" +
-                            "\n" +
-                            "“Jangan takut, hai perempuan tua! Aku tidak akan memakanmu. Bukankah kamu menginginkan seorang anak?” tanya raksasa itu.\n" +
-                            "\n" +
-                            "\n" +
-                            "\n" +
-                            "“Be… benar, Tuan Raksasa!” jawab Mbok Srini dengan gugup.\n" +
-                            "\n" +
-                            "“Kalau begitu, segera tanam biji timun itu! Kelak kamu akan mendapatkan seorang anak perempuan. Tapi, ingat! Kamu harus menyerahkan anak itu kepadaku saat ia sudah dewasa. Anak itu akan kujadikan santapanku,” ujar raksasa itu.\n" +
-                            "\n" +
-                            "Karena begitu besar keinginannya untuk memiliki anak, tanpa sadar Mbok Srini menjawab, “Baiklah, Raksasa! Aku bersedia menyerahkan anak itu kepadamu.”\n" +
-                            "\n" +
-                            "Begitu Mbok Srini selesai menyatakan kesediaannya, raksasa itu pun menghilang. Perempuan itu segera menanam biji timun itu di ladangnya. Dengan penuh harapan, setiap hari ia merawat tanaman itu dengan baik. Dua bulan kemudian, tanaman itu pun mulai berbuah. Namun anehnya, tanaman timun itu hanya berbuah satu. Semakin hari buah timun semakin besar melebihi buah timun pada umumnya. Warnanya pun sangat berbeda, yaitu berwarna kuning keemasan. Ketika buah timun masak, Mbok Srini memetiknya, lalu membawanya pulang ke gubuknya dengan susah payah, karena berat. Betapa terkejutnya ia setelah membelah buah timun itu. Ia mendapati seorang bayi perempuan yang sangat cantik. Saat akan menggendongnya, bayi itu tiba-tiba menangis.\n" +
-                            "\n" +
-                            "“Ngoa… ngoa… ngoa… !!!” demikian suara bayi itu.\n" +
-                            "\n" +
-                            "Alangkah bahagianya hati Mbok Srini mendengar suara tangisan bayi yang sudah lama dirindukannya itu. Ia pun memberi nama bayi itu Timun Mas.\n" +
-                            "\n" +
-                            "“Cup… cup… cup..!!! Jangan menangis anakku sayang… Timun Mas!” hibur Mbok Srini.\n" +
-                            "\n" +
-                            "\n" +
-                            "\n" +
-                            "Perempuan paruh baya itu tak mampu lagi menyembuyikan kebahagiaannya. Tak terasa, air matanya menetes membasahi kedua pipinya yang sudah mulai keriput. Perasaan bahagia itu membuatnya lupa kepada janjinya bahwa dia akan menyerahkan bayi itu kepada raksasa itu suatu saat kelak. Ia merawat dan mendidik Timun Mas dengan penuh kasih sayang hingga tumbuh menjadi gadis yang cantik jelita. Janda tua itu sangat bangga, karena selaing cantik, putrinya juga memiliki kecerdasan yang luar biasa dan perangai yang baik. Oleh karena itu, ia sangat sayang kepadanya.\n" +
-                            "\n" +
-                            "Suatu malam, Mbok Srini kembali bermimpi didatangi oleh raksasa itu dan berpesan kepadanya bahwa seminggu lagi ia akan datang menjemput Timun Mas. Sejak itu, ia selalu duduk termenung seorang diri. Hatinya sedih, karena ia akan berpisah dengan anak yang sangat disayanginya itu. Ia baru menyadari bahwa raksasa itu ternyata jahat, karena Timun Mas akan dijadikan santapannya.\n" +
-                            "\n" +
-                            "Melihat ibunya sering duduk termenung, Timun Mas pun bertanya-tanya dalam hati. Suatu sore, Timun Emas memberanikan diri untuk menanyakan kegundahan hati ibunya.\n" +
-                            "\n" +
-                            "“Bu, mengapa akhir-akhir ini Ibu selalu tampak sedih?” tanya Timun Mas.\n" +
-                            "\n" +
-                            "Sebenarnya Mbok Srini tidak ingin menceritakan penyebab kegundahan hatinya, karena dia tidak ingin anak semata wayangnya itu ikut bersedih. Namun, karena terus didesak, akhirnya ia pun menceritakan perihal asal-usul Timun Mas yang selama ini ia rahasiakan.\n" +
-                            "\n" +
-                            "“Maafkan Ibu, Anakku! Selama ini Ibu merahasiakan sesuatu kepadamu,” kata Mbok Srini dengan wajah sedih.\n" +
-                            "\n" +
-                            "“Rahasia apa, Bu?” tanya Timun Mas penasaran.\n" +
-                            "\n" +
-                            "“Ketahuilah, Timun Mas! Sebenarnya, kamu bukanlah anak kandung Ibu yang lahir dari rahim Ibu.”\n" +
-                            "\n" +
-                            "Belum selesai ibunya bicara, Timun Mas tiba-tiba menyela.\n" +
-                            "\n" +
-                            "“Apa maksud, Ibu?” tanya Timun Mas.\n" +
-                            "\n" +
-                            "Mbok Srini pun menceritakan semua rahasia tersebut hingga mimpinya semalam bahwa sesosok raksasa akan datang menjemput anaknya itu untuk dijadikan santapan. Mendengar cerita itu, Timun Mas tersentak kaget seolah-olah tidak percaya.\n" +
-                            "\n" +
-                            "“Timun tidak mau ikut bersama raksasa itu. Timun sangat sayang kepada Ibu yang telah mendidik dan membesarkan Timun,” kata Timun Mas.\n" +
-                            "\n" +
-                            "\n" +
-                            "\n" +
-                            "Mendengar perkataan Timun Mas, Mbok Srini kembali termenung. Ia bingung mencari cara agar anaknya selamat dari santapan raksasa itu. Sampai pada hari yang telah dijanjikan oleh raksasa itu, Mbok Srini belum juga menemukan jalan keluar. Hatinya pun mulai cemas. Dalam kecemasannya, tiba-tiba ia menemukan sebuah akal. Ia menyuruh Timun Mas berpura-pura sakit. Dengan begitu, tentu raksasa itu tidak akan mau menyantapnya. Saat matahari mulai senja, raksasa itu pun mendatangi gubuk Mbok Srini.\n" +
-                            "\n" +
-                            "“Hai, Perempuan Tua! Mana anak itu? Aku akan membawanya sekarang,” pinta raksasa itu.\n" +
-                            "\n" +
-                            "“Maaf, Tuan Raksasa! Anak itu sedang sakit keras. Jika kamu menyantapnya sekarang, tentu dagingnya tidak enak. Bagaimana kalau tiga hari lagi kamu datang kemari? Saya akan menyembuhkan penyakitnya terlebih dahulu,” bujuk Mbok Srini mengulur-ulur waktu hingga ia menemukan cara agar Timur Mas bisa selamat.\n" +
-                            "\n" +
-                            "“Baiklah, kalau begitu! Tapi, kamu harus berjanji akan menyerahkan anak itu kepadaku,” kata raksasa itu.\n" +
-                            "\n" +
-                            "Setelah Mbok Srini menyatakan berjanji, raksasa itu pun menghilang. Mbok Srini kembali bingung mencari cara lain. Setelah berpikir keras, akhirnya ia menemukan cara yang menurutnya dapat menyelamatkan anaknya dari santapan raksasa itu. Ia akan meminta bantuan kepada seorang pertapa yang tinggal di sebuah gunung.\n" +
-                            "\n" +
-                            "“Anakku! Besok pagi-pagi sekali Ibu akan pergi ke gunung untuk menemui seorang pertapa. Dia adalah teman almarhum suami Ibu. Barangkali dia bisa membantu kita untuk menghentikan niat jahat raksasa itu,” ungkap Mbok Srini.\n" +
-                            "\n" +
-                            "\n" +
-                            "\n" +
-                            "“Benar, Bu! Kita harus membinasakan raksasa itu. Timun tidak mau menjadi santapannya,” imbuh Timun Mas.\n" +
-                            "\n" +
-                            "Keesokan harinya, pagi-pagi sekali, berangkatlah Mbok Srini ke gunung itu. Sesampainya di sana, ia langsung menemui pertapa itu dan menyampaikan maksud kedatangannya.\n" +
-                            "\n" +
-                            "“Maaf, Tuan Pertapa! Maksud kedatangan saya kemari ingin meminta bantuan kepada Tuan,” kata Mbok Srini.\n" +
-                            "\n" +
-                            "“Apa yang bisa kubantu, Mbok Srini?” tanya pertapa itu.\n" +
-                            "\n" +
-                            "Mbok Srini pun menceritakan masalah yang sedang dihadapi anaknya. Mendengar cerita Mbok Srini, pertapa itu pun bersedia membantu.\n" +
-                            "\n" +
-                            "“Baiklah, kamu tunggu di sini sebentar!” seru pertapa itu seraya berjalan masuk ke dalam ruang rahasianya.\n" +
-                            "\n" +
-                            "Tak berapa lama, pertapa itu kembali sambil membawa empat buah bungkusan kecil, lalu menyerahkannya kepada Mbok Srini.\n" +
-                            "\n" +
-                            "“Berikanlah bungkusan ini kepada anakmu. Keempat bungkusan ini masing-masing berisi biji timun, jarum, garam dan terasi. Jika raksasa itu mengejarnya, suruh sebarkan isi bungkusan ini!” jelas pertapa itu.\n" +
-                            "\n" +
-                            "Setelah mendapat penjelasan itu, Mbok Srini pulang membawa keempat bungkusan tersebut. Setiba di gubuknya, Mbok Srini menyerahkan keempat bungkusan itu dan menjelaskan tujuannya kepada Timun Mas. Kini, hati Mbok Srini mulai agak tenang, karena anaknya sudah mempunyai senjata untuk melawan raksasa itu.\n" +
-                            "\n" +
-                            "Dua hari kemudian, Raksasa itu pun datang untuk menagih janjinya kepada Mbok Srini. Ia sudah tidak sabar lagi ingin membawa dan menyantap daging Timun Mas.\n" +
-                            "\n" +
-                            "“Hai, perempuan tua! Kali ini kamu harus menepati janjimu. Jika tidak, kamu juga akan kujadikan santapanku!” ancam raksasa itu.\n" +
-                            "\n" +
-                            "\n" +
-                            "\n" +
-                            "Mbok Srini tidak gentar lagi menghadapi ancaman itu. Dengan tenang, ia memanggil Timun Mas agar keluar dari dalam gubuk. Tak berapa lama, Timun Emas pun keluar lalu berdiri di samping ibunya.\n" +
-                            "\n" +
-                            "“Jangan takut, Anakku! Jika raksasa itu akan menangkapmu, segera lari dan ikuti petunjuk yang telah kusamapaikan kepadamu,” Mbok Srini membisik Timun Mas.\n" +
-                            "\n" +
-                            "“Baik, Bu!” jawab Timun Mas.\n" +
-                            "\n" +
-                            "Melihat Timun Mas yang benar-benar sudah dewasa, rakasasa itu semakin tidak sabar ingin segera menyantapnya. Ketika ia hendak menangkapnya, Timun Mas segera berlari sekencang-kencangnya. Raksasa itu pun mengejarnya. Tak ayal lagi, terjadilah kejar-kerajaan antara makhluk raksasa itu dengan Timun Mas. Setelah berlari jauh, Timun Mas mulai kecapaian, sementara raksasa itu semakin mendekat. Akhirnya, ia pun mengeluarkan bungkusan pemberian pertapa itu.\n" +
-                            "\n" +
-                            "Pertama-tama Timun Mas menebar biji timun yang diberikan oleh ibunya. Sungguh ajaib, hutan di sekelilingnya tiba-tiba berubah menjadi ladang timun. Dalam sekejap, batang timun tersebut menjalar dan melilit seluruh tubuh raksasa itu. Namun, raksasa itu mampu melepaskan diri dan kembali mengejar Timun Mas.\n" +
-                            "\n" +
-                            "Timun Emas pun segera melemparkan bungkusan yang berisi jarum. Dalam sekejap, jarum-jarum tersebut berubah menjadi rerumbunan pohon bambu yang tinggi dan runcing. Namun, raksasa itu mampu melewatinya dan terus mengejar Timun Mas, walaupun kakinya berdarah-darah karena tertusuk bambu tersebut.\n" +
-                            "\n" +
-                            "Melihat usahanya belum berhasil, Timun Mas membuka bungkusan ketiga yang berisi garam lalu menebarkannya. Seketika itu pula, hutan yang telah dilewatinya tiba-tiba berubah menjadi lautan luas dan dalam, namun raksasa itu tetap berhasil melaluinya dengan mudah. Timun Emas pun mulai cemas, karena senjatanya hanya tersisa satu. Jika senjata tersebut tidak berhasil melumpuhkan raksasa itu, maka tamatlah riwayatnya. Dengan penuh keyakinan, ia pun melemparkan bungkusan terakhir yang berisi terasi. Seketika itu pula, tempat jatuhnya terasi itu tiba-tiba menjelma menjadi lautan lumpur yang mendidih. Alhasil, raksasa itu pun tercebur ke dalamnya dan tewas seketika. Maka selamatlah Timun Emas dari kejaran dan santapan raksasa itu.\n" +
-                            "\n" +
-                            "\n" +
-                            "\n" +
-                            "Dengan sekuat tenaga, Timun Emas berjalan menuju ke gubuknya untuk menemui ibunya. Melihat anaknya selamat, Mbok Srini pun langsung berucap syukur kepada Tuhan Yang Mahakuasa. Sejak itu, Mbok Srini dan Timun Mas hidup berbahagia.\n" +
-                            "\n" +
-                            "    ",
+                            "",
                     "Jika kita dilamar seseorang sebaiknya kita teliti terlebih dahulu keturunan dan silsilah si pelamar serta mengetahui atau melihat langsung bentuk fisiknya sehingga tidak menimbulkan rasa penyesalan di kemudian hari",
-                    "Suara",
+                    String.valueOf(R.raw.sawahsikidang),
             },
             {
                 String.valueOf(R.drawable.kiageng),
@@ -487,7 +373,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Bahwa kebaikan dan kejujuran akan memberikan manfaat bagi pemiliknya",
-                    "Suara"
+                    String.valueOf(R.raw.kiageng)
             },
             {
                 String.valueOf(R.drawable.kotamagelang),
@@ -522,7 +408,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Berjuang untuk memperjuangkan nyawa",
-                    "Suara"
+                    String.valueOf(R.raw.kotamagelang)
             },
             {
                     String.valueOf(R.drawable.kotasalatiga),
@@ -561,7 +447,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Bahwa harta benda tidak selamanya akan membawakebahagiaan dan keberuntungan kadang kala justru bisa menjadi sumber malah petaka",
-                    "Suara"
+                    String.valueOf(R.raw.salahtiga)
             },
             {
                     String.valueOf(R.drawable.rarajonggrang),
@@ -613,7 +499,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Jangan pernah memaksakan kehendak kita kepada orang lain",
-                    "Suara"
+                    String.valueOf(R.raw.rarajonggrang)
             },
             {
                     String.valueOf(R.drawable.raramendut),
@@ -708,7 +594,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Bahwa harta,pangkat dan jabatan bukanlah jaminan untuk mendapatkan cinta sejati seseorang",
-                    "Suara"
+                    String.valueOf(R.raw.raramendut)
             },
             {
                     String.valueOf(R.drawable.rawapening),
@@ -835,7 +721,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Sifat angkuh,sombong dan tidak menghargai orang lain adalah sifat tidak terpuji ",
-                    "Suara"
+                    String.valueOf(R.raw.rawapening)
             },
             {
                     String.valueOf(R.drawable.timunmas),
@@ -960,7 +846,7 @@ public class DataModel {
                             "\n" +
                             "    ",
                     "Jangan pernah lelah memohon kepada Tuhan dan jangan mudah menyerah",
-                    "Suara"
+                    String.valueOf(R.raw.timunmas)
             }
     };
     public static ArrayList<Model> getListData(){
