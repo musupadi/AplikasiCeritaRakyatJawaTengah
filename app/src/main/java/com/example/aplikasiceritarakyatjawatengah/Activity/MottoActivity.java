@@ -44,9 +44,13 @@ public class MottoActivity extends AppCompatActivity {
         selesai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MottoActivity.this,DetailCeritaActivity.class);
-                startActivity(intent);
-                finish();
+                Intent goInput = new Intent(MottoActivity.this, DetailCeritaActivity.class);
+                goInput.putExtra("GAMBAR",gambar);
+                goInput.putExtra("JUDUL",judul);
+                goInput.putExtra( "CERITA",cerita);
+                goInput.putExtra("PESANMORAL",pesanmoral);
+                goInput.putExtra("SUARA",suara);
+                MottoActivity.this.startActivities(new Intent[]{goInput});
             }
         });
         exit=(ImageView)findViewById(R.id.ivexit);
